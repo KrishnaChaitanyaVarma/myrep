@@ -1,6 +1,6 @@
 # Water Quality Prediction for Aquaculture
 
-This project predicts water quality parameters using a Voting Ensemble model deployed on Azure Machine Learning Studio.
+This project predicts water quality based on few parameters in the datset using a Voting Ensemble model deployed on Azure Machine Learning Studio.
 
 ## Features
 - Real-time prediction via REST API
